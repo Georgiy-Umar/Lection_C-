@@ -1,0 +1,15 @@
+/Users/omar/GeekBrain/C# Lections/Examples/Example001_Hello_console/bin/Debug/net6.0/Example001_Hello_console
+/Users/omar/GeekBrain/C# Lections/Examples/Example001_Hello_console/bin/Debug/net6.0/Example001_Hello_console.deps.json
+/Users/omar/GeekBrain/C# Lections/Examples/Example001_Hello_console/bin/Debug/net6.0/Example001_Hello_console.runtimeconfig.json
+/Users/omar/GeekBrain/C# Lections/Examples/Example001_Hello_console/bin/Debug/net6.0/Example001_Hello_console.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Example001_Hello_console/bin/Debug/net6.0/Example001_Hello_console.pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Example001_Hello_console/obj/Debug/net6.0/Example001_Hello_console.csproj.AssemblyReference.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Example001_Hello_console/obj/Debug/net6.0/Example001_Hello_console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omar/GeekBrain/C# Lections/Examples/Example001_Hello_console/obj/Debug/net6.0/Example001_Hello_console.AssemblyInfoInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Example001_Hello_console/obj/Debug/net6.0/Example001_Hello_console.AssemblyInfo.cs
+/Users/omar/GeekBrain/C# Lections/Examples/Example001_Hello_console/obj/Debug/net6.0/Example001_Hello_console.csproj.CoreCompileInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Example001_Hello_console/obj/Debug/net6.0/Example001_Hello_console.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Example001_Hello_console/obj/Debug/net6.0/refint/Example001_Hello_console.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Example001_Hello_console/obj/Debug/net6.0/Example001_Hello_console.pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Example001_Hello_console/obj/Debug/net6.0/Example001_Hello_console.genruntimeconfig.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Example001_Hello_console/obj/Debug/net6.0/ref/Example001_Hello_console.dll
