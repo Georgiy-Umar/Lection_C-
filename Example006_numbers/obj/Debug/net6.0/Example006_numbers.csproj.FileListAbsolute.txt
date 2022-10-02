@@ -1,0 +1,15 @@
+/Users/omar/GeekBrain/C# Lections/Examples/Example006_numbers/bin/Debug/net6.0/Example006_numbers
+/Users/omar/GeekBrain/C# Lections/Examples/Example006_numbers/bin/Debug/net6.0/Example006_numbers.deps.json
+/Users/omar/GeekBrain/C# Lections/Examples/Example006_numbers/bin/Debug/net6.0/Example006_numbers.runtimeconfig.json
+/Users/omar/GeekBrain/C# Lections/Examples/Example006_numbers/bin/Debug/net6.0/Example006_numbers.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Example006_numbers/bin/Debug/net6.0/Example006_numbers.pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Example006_numbers/obj/Debug/net6.0/Example006_numbers.csproj.AssemblyReference.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Example006_numbers/obj/Debug/net6.0/Example006_numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omar/GeekBrain/C# Lections/Examples/Example006_numbers/obj/Debug/net6.0/Example006_numbers.AssemblyInfoInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Example006_numbers/obj/Debug/net6.0/Example006_numbers.AssemblyInfo.cs
+/Users/omar/GeekBrain/C# Lections/Examples/Example006_numbers/obj/Debug/net6.0/Example006_numbers.csproj.CoreCompileInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Example006_numbers/obj/Debug/net6.0/Example006_numbers.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Example006_numbers/obj/Debug/net6.0/refint/Example006_numbers.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Example006_numbers/obj/Debug/net6.0/Example006_numbers.pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Example006_numbers/obj/Debug/net6.0/Example006_numbers.genruntimeconfig.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Example006_numbers/obj/Debug/net6.0/ref/Example006_numbers.dll
