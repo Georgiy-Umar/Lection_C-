@@ -1,0 +1,15 @@
+/Users/omar/GeekBrain/C# Lections/Examples/Example004_Div/bin/Debug/net6.0/Example004_Div
+/Users/omar/GeekBrain/C# Lections/Examples/Example004_Div/bin/Debug/net6.0/Example004_Div.deps.json
+/Users/omar/GeekBrain/C# Lections/Examples/Example004_Div/bin/Debug/net6.0/Example004_Div.runtimeconfig.json
+/Users/omar/GeekBrain/C# Lections/Examples/Example004_Div/bin/Debug/net6.0/Example004_Div.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Example004_Div/bin/Debug/net6.0/Example004_Div.pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Example004_Div/obj/Debug/net6.0/Example004_Div.csproj.AssemblyReference.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Example004_Div/obj/Debug/net6.0/Example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omar/GeekBrain/C# Lections/Examples/Example004_Div/obj/Debug/net6.0/Example004_Div.AssemblyInfoInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Example004_Div/obj/Debug/net6.0/Example004_Div.AssemblyInfo.cs
+/Users/omar/GeekBrain/C# Lections/Examples/Example004_Div/obj/Debug/net6.0/Example004_Div.csproj.CoreCompileInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Example004_Div/obj/Debug/net6.0/Example004_Div.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Example004_Div/obj/Debug/net6.0/refint/Example004_Div.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Example004_Div/obj/Debug/net6.0/Example004_Div.pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Example004_Div/obj/Debug/net6.0/Example004_Div.genruntimeconfig.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Example004_Div/obj/Debug/net6.0/ref/Example004_Div.dll
