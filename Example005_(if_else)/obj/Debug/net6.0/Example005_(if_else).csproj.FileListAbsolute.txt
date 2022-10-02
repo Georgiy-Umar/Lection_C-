@@ -1,0 +1,15 @@
+/Users/omar/GeekBrain/C# Lections/Examples/Example005_(if_else)/bin/Debug/net6.0/Example005_(if_else)
+/Users/omar/GeekBrain/C# Lections/Examples/Example005_(if_else)/bin/Debug/net6.0/Example005_(if_else).deps.json
+/Users/omar/GeekBrain/C# Lections/Examples/Example005_(if_else)/bin/Debug/net6.0/Example005_(if_else).runtimeconfig.json
+/Users/omar/GeekBrain/C# Lections/Examples/Example005_(if_else)/bin/Debug/net6.0/Example005_(if_else).dll
+/Users/omar/GeekBrain/C# Lections/Examples/Example005_(if_else)/bin/Debug/net6.0/Example005_(if_else).pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Example005_(if_else)/obj/Debug/net6.0/Example005_(if_else).csproj.AssemblyReference.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Example005_(if_else)/obj/Debug/net6.0/Example005_(if_else).GeneratedMSBuildEditorConfig.editorconfig
+/Users/omar/GeekBrain/C# Lections/Examples/Example005_(if_else)/obj/Debug/net6.0/Example005_(if_else).AssemblyInfoInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Example005_(if_else)/obj/Debug/net6.0/Example005_(if_else).AssemblyInfo.cs
+/Users/omar/GeekBrain/C# Lections/Examples/Example005_(if_else)/obj/Debug/net6.0/Example005_(if_else).csproj.CoreCompileInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Example005_(if_else)/obj/Debug/net6.0/Example005_(if_else).dll
+/Users/omar/GeekBrain/C# Lections/Examples/Example005_(if_else)/obj/Debug/net6.0/refint/Example005_(if_else).dll
+/Users/omar/GeekBrain/C# Lections/Examples/Example005_(if_else)/obj/Debug/net6.0/Example005_(if_else).pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Example005_(if_else)/obj/Debug/net6.0/Example005_(if_else).genruntimeconfig.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Example005_(if_else)/obj/Debug/net6.0/ref/Example005_(if_else).dll
