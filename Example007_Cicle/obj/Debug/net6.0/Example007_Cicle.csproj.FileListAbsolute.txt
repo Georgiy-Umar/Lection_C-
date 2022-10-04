@@ -1,0 +1,15 @@
+/Users/omar/GeekBrain/C# Lections/Examples/Example007_Cicle/bin/Debug/net6.0/Example007_Cicle
+/Users/omar/GeekBrain/C# Lections/Examples/Example007_Cicle/bin/Debug/net6.0/Example007_Cicle.deps.json
+/Users/omar/GeekBrain/C# Lections/Examples/Example007_Cicle/bin/Debug/net6.0/Example007_Cicle.runtimeconfig.json
+/Users/omar/GeekBrain/C# Lections/Examples/Example007_Cicle/bin/Debug/net6.0/Example007_Cicle.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Example007_Cicle/bin/Debug/net6.0/Example007_Cicle.pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Example007_Cicle/obj/Debug/net6.0/Example007_Cicle.csproj.AssemblyReference.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Example007_Cicle/obj/Debug/net6.0/Example007_Cicle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omar/GeekBrain/C# Lections/Examples/Example007_Cicle/obj/Debug/net6.0/Example007_Cicle.AssemblyInfoInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Example007_Cicle/obj/Debug/net6.0/Example007_Cicle.AssemblyInfo.cs
+/Users/omar/GeekBrain/C# Lections/Examples/Example007_Cicle/obj/Debug/net6.0/Example007_Cicle.csproj.CoreCompileInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Example007_Cicle/obj/Debug/net6.0/Example007_Cicle.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Example007_Cicle/obj/Debug/net6.0/refint/Example007_Cicle.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Example007_Cicle/obj/Debug/net6.0/Example007_Cicle.pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Example007_Cicle/obj/Debug/net6.0/Example007_Cicle.genruntimeconfig.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Example007_Cicle/obj/Debug/net6.0/ref/Example007_Cicle.dll
