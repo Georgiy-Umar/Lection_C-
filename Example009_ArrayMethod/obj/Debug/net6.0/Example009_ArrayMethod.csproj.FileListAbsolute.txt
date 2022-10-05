@@ -1,0 +1,15 @@
+/Users/omar/GeekBrain/C# Lections/Examples/Example009_ArrayMethod/bin/Debug/net6.0/Example009_ArrayMethod
+/Users/omar/GeekBrain/C# Lections/Examples/Example009_ArrayMethod/bin/Debug/net6.0/Example009_ArrayMethod.deps.json
+/Users/omar/GeekBrain/C# Lections/Examples/Example009_ArrayMethod/bin/Debug/net6.0/Example009_ArrayMethod.runtimeconfig.json
+/Users/omar/GeekBrain/C# Lections/Examples/Example009_ArrayMethod/bin/Debug/net6.0/Example009_ArrayMethod.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Example009_ArrayMethod/bin/Debug/net6.0/Example009_ArrayMethod.pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Example009_ArrayMethod/obj/Debug/net6.0/Example009_ArrayMethod.csproj.AssemblyReference.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Example009_ArrayMethod/obj/Debug/net6.0/Example009_ArrayMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omar/GeekBrain/C# Lections/Examples/Example009_ArrayMethod/obj/Debug/net6.0/Example009_ArrayMethod.AssemblyInfoInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Example009_ArrayMethod/obj/Debug/net6.0/Example009_ArrayMethod.AssemblyInfo.cs
+/Users/omar/GeekBrain/C# Lections/Examples/Example009_ArrayMethod/obj/Debug/net6.0/Example009_ArrayMethod.csproj.CoreCompileInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Example009_ArrayMethod/obj/Debug/net6.0/Example009_ArrayMethod.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Example009_ArrayMethod/obj/Debug/net6.0/refint/Example009_ArrayMethod.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Example009_ArrayMethod/obj/Debug/net6.0/Example009_ArrayMethod.pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Example009_ArrayMethod/obj/Debug/net6.0/Example009_ArrayMethod.genruntimeconfig.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Example009_ArrayMethod/obj/Debug/net6.0/ref/Example009_ArrayMethod.dll
