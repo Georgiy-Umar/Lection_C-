@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Practice001_Ex09/1.0.0": {
+      "Practice002_Ex16/1.0.0": {
         "runtime": {
-          "Practice001_Ex09.dll": {}
+          "Practice002_Ex16.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Practice001_Ex09/1.0.0": {
+    "Practice002_Ex16/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
