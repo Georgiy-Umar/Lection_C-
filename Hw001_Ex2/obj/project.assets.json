@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/omar/GeekBrain/C# Lections/Examples/Homework_practice_001_Ex2/Homework_practice_001_Ex2.csproj",
-      "projectName": "Homework_practice_001_Ex2",
-      "projectPath": "/Users/omar/GeekBrain/C# Lections/Examples/Homework_practice_001_Ex2/Homework_practice_001_Ex2.csproj",
+      "projectUniqueName": "/Users/omar/GeekBrain/C# Lections/Examples/Hw001_Ex2/Hw001_Ex2.csproj",
+      "projectName": "Hw001_Ex2",
+      "projectPath": "/Users/omar/GeekBrain/C# Lections/Examples/Hw001_Ex2/Hw001_Ex2.csproj",
       "packagesPath": "/Users/omar/.nuget/packages/",
-      "outputPath": "/Users/omar/GeekBrain/C# Lections/Examples/Homework_practice_001_Ex2/obj/",
+      "outputPath": "/Users/omar/GeekBrain/C# Lections/Examples/Hw001_Ex2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/omar/.nuget/NuGet/NuGet.Config"

@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Homework_practice_001_Ex2
-build_property.ProjectDir = /Users/omar/GeekBrain/C# Lections/Examples/Homework_practice_001_Ex2/
+build_property.RootNamespace = Hw001_Ex2
+build_property.ProjectDir = /Users/omar/GeekBrain/C# Lections/Examples/Hw001_Ex2/
