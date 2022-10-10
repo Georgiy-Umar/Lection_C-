@@ -1,0 +1,15 @@
+/Users/omar/GeekBrain/C# Lections/Examples/Lection003_aboutMethods/obj/Debug/net6.0/Lection003_aboutMethods.csproj.AssemblyReference.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Lection003_aboutMethods/obj/Debug/net6.0/Lection003_aboutMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omar/GeekBrain/C# Lections/Examples/Lection003_aboutMethods/obj/Debug/net6.0/Lection003_aboutMethods.AssemblyInfoInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Lection003_aboutMethods/obj/Debug/net6.0/Lection003_aboutMethods.AssemblyInfo.cs
+/Users/omar/GeekBrain/C# Lections/Examples/Lection003_aboutMethods/obj/Debug/net6.0/Lection003_aboutMethods.csproj.CoreCompileInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Lection003_aboutMethods/bin/Debug/net6.0/Lection003_aboutMethods
+/Users/omar/GeekBrain/C# Lections/Examples/Lection003_aboutMethods/bin/Debug/net6.0/Lection003_aboutMethods.deps.json
+/Users/omar/GeekBrain/C# Lections/Examples/Lection003_aboutMethods/bin/Debug/net6.0/Lection003_aboutMethods.runtimeconfig.json
+/Users/omar/GeekBrain/C# Lections/Examples/Lection003_aboutMethods/bin/Debug/net6.0/Lection003_aboutMethods.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Lection003_aboutMethods/bin/Debug/net6.0/Lection003_aboutMethods.pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Lection003_aboutMethods/obj/Debug/net6.0/Lection003_aboutMethods.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Lection003_aboutMethods/obj/Debug/net6.0/refint/Lection003_aboutMethods.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Lection003_aboutMethods/obj/Debug/net6.0/Lection003_aboutMethods.pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Lection003_aboutMethods/obj/Debug/net6.0/Lection003_aboutMethods.genruntimeconfig.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Lection003_aboutMethods/obj/Debug/net6.0/ref/Lection003_aboutMethods.dll
