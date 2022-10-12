@@ -13,15 +13,12 @@ n = Convert.ToInt32(Console.ReadLine());
 if (n < 100 | n > 999)
 {
     Console.WriteLine("Error!You didn't enter number from 100 to 999, try again: ");
+Console.WriteLine("Enter your any number from 100 to 999: ");
+n = Convert.ToInt32(Console.ReadLine());
 }
-else
+if(n >= 100 | n <= 999)
 {
-    Console.WriteLine();
+    int DecreaseByten = n / 10; //этот блок не понял откуда взялся ??? ((
+    int LastDigit = DecreaseByten % 10;
+    Console.WriteLine("Second digit from n is =" + LastDigit); // тут думал подойдет вот эта команда Console.WriteLine(+""+ second +""+);
 }
-
-
-
-/*if (n > 100 && n < 999)
-{
-    Console.WriteLine(+""+ second +""+);
-*/
