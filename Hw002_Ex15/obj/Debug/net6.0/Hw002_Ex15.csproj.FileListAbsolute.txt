@@ -1,0 +1,15 @@
+/Users/omar/GeekBrain/C# Lections/Examples/Hw002_Ex15/obj/Debug/net6.0/Hw002_Ex15.csproj.AssemblyReference.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Hw002_Ex15/obj/Debug/net6.0/Hw002_Ex15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omar/GeekBrain/C# Lections/Examples/Hw002_Ex15/obj/Debug/net6.0/Hw002_Ex15.AssemblyInfoInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Hw002_Ex15/obj/Debug/net6.0/Hw002_Ex15.AssemblyInfo.cs
+/Users/omar/GeekBrain/C# Lections/Examples/Hw002_Ex15/obj/Debug/net6.0/Hw002_Ex15.csproj.CoreCompileInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Hw002_Ex15/bin/Debug/net6.0/Hw002_Ex15
+/Users/omar/GeekBrain/C# Lections/Examples/Hw002_Ex15/bin/Debug/net6.0/Hw002_Ex15.deps.json
+/Users/omar/GeekBrain/C# Lections/Examples/Hw002_Ex15/bin/Debug/net6.0/Hw002_Ex15.runtimeconfig.json
+/Users/omar/GeekBrain/C# Lections/Examples/Hw002_Ex15/bin/Debug/net6.0/Hw002_Ex15.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Hw002_Ex15/bin/Debug/net6.0/Hw002_Ex15.pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Hw002_Ex15/obj/Debug/net6.0/Hw002_Ex15.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Hw002_Ex15/obj/Debug/net6.0/refint/Hw002_Ex15.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Hw002_Ex15/obj/Debug/net6.0/Hw002_Ex15.pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Hw002_Ex15/obj/Debug/net6.0/Hw002_Ex15.genruntimeconfig.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Hw002_Ex15/obj/Debug/net6.0/ref/Hw002_Ex15.dll
