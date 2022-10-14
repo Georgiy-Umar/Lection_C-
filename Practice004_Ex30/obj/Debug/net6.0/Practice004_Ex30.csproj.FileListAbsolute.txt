@@ -1,0 +1,15 @@
+/Users/omar/GeekBrain/C# Lections/Examples/Practice004_Ex30/obj/Debug/net6.0/Practice004_Ex30.csproj.AssemblyReference.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Practice004_Ex30/obj/Debug/net6.0/Practice004_Ex30.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omar/GeekBrain/C# Lections/Examples/Practice004_Ex30/obj/Debug/net6.0/Practice004_Ex30.AssemblyInfoInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Practice004_Ex30/obj/Debug/net6.0/Practice004_Ex30.AssemblyInfo.cs
+/Users/omar/GeekBrain/C# Lections/Examples/Practice004_Ex30/obj/Debug/net6.0/Practice004_Ex30.csproj.CoreCompileInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Practice004_Ex30/bin/Debug/net6.0/Practice004_Ex30
+/Users/omar/GeekBrain/C# Lections/Examples/Practice004_Ex30/bin/Debug/net6.0/Practice004_Ex30.deps.json
+/Users/omar/GeekBrain/C# Lections/Examples/Practice004_Ex30/bin/Debug/net6.0/Practice004_Ex30.runtimeconfig.json
+/Users/omar/GeekBrain/C# Lections/Examples/Practice004_Ex30/bin/Debug/net6.0/Practice004_Ex30.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Practice004_Ex30/bin/Debug/net6.0/Practice004_Ex30.pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Practice004_Ex30/obj/Debug/net6.0/Practice004_Ex30.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Practice004_Ex30/obj/Debug/net6.0/refint/Practice004_Ex30.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Practice004_Ex30/obj/Debug/net6.0/Practice004_Ex30.pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Practice004_Ex30/obj/Debug/net6.0/Practice004_Ex30.genruntimeconfig.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Practice004_Ex30/obj/Debug/net6.0/ref/Practice004_Ex30.dll

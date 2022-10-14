@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Hw003_Ex19/1.0.0": {
+        "runtime": {
+          "Hw003_Ex19.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hw003_Ex19/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
