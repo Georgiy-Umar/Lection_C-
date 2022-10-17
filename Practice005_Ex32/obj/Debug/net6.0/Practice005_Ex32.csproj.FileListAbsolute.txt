@@ -1,0 +1,15 @@
+/Users/omar/GeekBrain/C# Lections/Examples/Practice005_Ex32/obj/Debug/net6.0/Practice005_Ex32.csproj.AssemblyReference.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Practice005_Ex32/obj/Debug/net6.0/Practice005_Ex32.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omar/GeekBrain/C# Lections/Examples/Practice005_Ex32/obj/Debug/net6.0/Practice005_Ex32.AssemblyInfoInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Practice005_Ex32/obj/Debug/net6.0/Practice005_Ex32.AssemblyInfo.cs
+/Users/omar/GeekBrain/C# Lections/Examples/Practice005_Ex32/obj/Debug/net6.0/Practice005_Ex32.csproj.CoreCompileInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Practice005_Ex32/bin/Debug/net6.0/Practice005_Ex32
+/Users/omar/GeekBrain/C# Lections/Examples/Practice005_Ex32/bin/Debug/net6.0/Practice005_Ex32.deps.json
+/Users/omar/GeekBrain/C# Lections/Examples/Practice005_Ex32/bin/Debug/net6.0/Practice005_Ex32.runtimeconfig.json
+/Users/omar/GeekBrain/C# Lections/Examples/Practice005_Ex32/bin/Debug/net6.0/Practice005_Ex32.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Practice005_Ex32/bin/Debug/net6.0/Practice005_Ex32.pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Practice005_Ex32/obj/Debug/net6.0/Practice005_Ex32.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Practice005_Ex32/obj/Debug/net6.0/refint/Practice005_Ex32.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Practice005_Ex32/obj/Debug/net6.0/Practice005_Ex32.pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Practice005_Ex32/obj/Debug/net6.0/Practice005_Ex32.genruntimeconfig.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Practice005_Ex32/obj/Debug/net6.0/ref/Practice005_Ex32.dll
