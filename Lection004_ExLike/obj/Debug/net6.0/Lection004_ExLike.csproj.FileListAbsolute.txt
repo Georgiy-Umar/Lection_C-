@@ -1,0 +1,15 @@
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExLike/obj/Debug/net6.0/Lection004_ExLike.csproj.AssemblyReference.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExLike/obj/Debug/net6.0/Lection004_ExLike.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExLike/obj/Debug/net6.0/Lection004_ExLike.AssemblyInfoInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExLike/obj/Debug/net6.0/Lection004_ExLike.AssemblyInfo.cs
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExLike/obj/Debug/net6.0/Lection004_ExLike.csproj.CoreCompileInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExLike/bin/Debug/net6.0/Lection004_ExLike
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExLike/bin/Debug/net6.0/Lection004_ExLike.deps.json
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExLike/bin/Debug/net6.0/Lection004_ExLike.runtimeconfig.json
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExLike/bin/Debug/net6.0/Lection004_ExLike.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExLike/bin/Debug/net6.0/Lection004_ExLike.pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExLike/obj/Debug/net6.0/Lection004_ExLike.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExLike/obj/Debug/net6.0/refint/Lection004_ExLike.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExLike/obj/Debug/net6.0/Lection004_ExLike.pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExLike/obj/Debug/net6.0/Lection004_ExLike.genruntimeconfig.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExLike/obj/Debug/net6.0/ref/Lection004_ExLike.dll
