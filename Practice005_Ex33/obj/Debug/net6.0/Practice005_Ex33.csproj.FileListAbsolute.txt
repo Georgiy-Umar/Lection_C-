@@ -1,0 +1,5 @@
+/Users/omar/GeekBrain/C# Lections/Examples/Practice005_Ex33/obj/Debug/net6.0/Practice005_Ex33.csproj.AssemblyReference.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Practice005_Ex33/obj/Debug/net6.0/Practice005_Ex33.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omar/GeekBrain/C# Lections/Examples/Practice005_Ex33/obj/Debug/net6.0/Practice005_Ex33.AssemblyInfoInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Practice005_Ex33/obj/Debug/net6.0/Practice005_Ex33.AssemblyInfo.cs
+/Users/omar/GeekBrain/C# Lections/Examples/Practice005_Ex33/obj/Debug/net6.0/Practice005_Ex33.csproj.CoreCompileInputs.cache

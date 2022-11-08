@@ -1,0 +1,15 @@
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_Ex2levArrays/obj/Debug/net6.0/Lection004_Ex2levArrays.csproj.AssemblyReference.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_Ex2levArrays/obj/Debug/net6.0/Lection004_Ex2levArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_Ex2levArrays/obj/Debug/net6.0/Lection004_Ex2levArrays.AssemblyInfoInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_Ex2levArrays/obj/Debug/net6.0/Lection004_Ex2levArrays.AssemblyInfo.cs
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_Ex2levArrays/obj/Debug/net6.0/Lection004_Ex2levArrays.csproj.CoreCompileInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_Ex2levArrays/bin/Debug/net6.0/Lection004_Ex2levArrays
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_Ex2levArrays/bin/Debug/net6.0/Lection004_Ex2levArrays.deps.json
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_Ex2levArrays/bin/Debug/net6.0/Lection004_Ex2levArrays.runtimeconfig.json
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_Ex2levArrays/bin/Debug/net6.0/Lection004_Ex2levArrays.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_Ex2levArrays/bin/Debug/net6.0/Lection004_Ex2levArrays.pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_Ex2levArrays/obj/Debug/net6.0/Lection004_Ex2levArrays.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_Ex2levArrays/obj/Debug/net6.0/refint/Lection004_Ex2levArrays.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_Ex2levArrays/obj/Debug/net6.0/Lection004_Ex2levArrays.pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_Ex2levArrays/obj/Debug/net6.0/Lection004_Ex2levArrays.genruntimeconfig.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_Ex2levArrays/obj/Debug/net6.0/ref/Lection004_Ex2levArrays.dll

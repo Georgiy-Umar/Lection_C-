@@ -1,0 +1,15 @@
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExFibonacci/obj/Debug/net6.0/Lection004_ExFibonacci.csproj.AssemblyReference.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExFibonacci/obj/Debug/net6.0/Lection004_ExFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExFibonacci/obj/Debug/net6.0/Lection004_ExFibonacci.AssemblyInfoInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExFibonacci/obj/Debug/net6.0/Lection004_ExFibonacci.AssemblyInfo.cs
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExFibonacci/obj/Debug/net6.0/Lection004_ExFibonacci.csproj.CoreCompileInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExFibonacci/bin/Debug/net6.0/Lection004_ExFibonacci
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExFibonacci/bin/Debug/net6.0/Lection004_ExFibonacci.deps.json
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExFibonacci/bin/Debug/net6.0/Lection004_ExFibonacci.runtimeconfig.json
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExFibonacci/bin/Debug/net6.0/Lection004_ExFibonacci.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExFibonacci/bin/Debug/net6.0/Lection004_ExFibonacci.pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExFibonacci/obj/Debug/net6.0/Lection004_ExFibonacci.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExFibonacci/obj/Debug/net6.0/refint/Lection004_ExFibonacci.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExFibonacci/obj/Debug/net6.0/Lection004_ExFibonacci.pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExFibonacci/obj/Debug/net6.0/Lection004_ExFibonacci.genruntimeconfig.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Lection004_ExFibonacci/obj/Debug/net6.0/ref/Lection004_ExFibonacci.dll

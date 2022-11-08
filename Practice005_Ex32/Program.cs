@@ -18,7 +18,6 @@ for (int i = 0; i < arr.Length; i++)
 
 }
 
-
 void randomFilling(int[] arr, int min, int max) // функция заготовка
 {
 for (int i = 0; i < arr.Length; i++)

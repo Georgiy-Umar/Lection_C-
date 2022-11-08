@@ -1,3 +1,5 @@
+
+
 /* ДАННЫЙ МЕТОД - "МЕТОД ЗАПОЛНЕНИЯ МАССИВА"
 void FillArray(int[] collection) 
 /*void оператор для невозврата позиций,
@@ -83,3 +85,9 @@ Console.WriteLine();
 
 int pos = Indexof (array, 444);
 Console.WriteLine(pos);
+
+
+
+
+
+}

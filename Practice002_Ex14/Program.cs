@@ -3,7 +3,7 @@
 
 Console.WriteLine("Enter any number a: ");
 int a = Convert.ToInt32(Console.ReadLine());
-
+if(a%7 ==0)
 {
 Console.WriteLine("Excelent! Your number is a multiple 7 and 23");
 }
