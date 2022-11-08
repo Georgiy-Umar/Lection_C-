@@ -1,0 +1,15 @@
+/Users/omar/GeekBrain/C# Lections/Examples/Hw06_Ex41/bin/Debug/net6.0/Hw06_Ex41
+/Users/omar/GeekBrain/C# Lections/Examples/Hw06_Ex41/bin/Debug/net6.0/Hw06_Ex41.deps.json
+/Users/omar/GeekBrain/C# Lections/Examples/Hw06_Ex41/bin/Debug/net6.0/Hw06_Ex41.runtimeconfig.json
+/Users/omar/GeekBrain/C# Lections/Examples/Hw06_Ex41/bin/Debug/net6.0/Hw06_Ex41.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Hw06_Ex41/bin/Debug/net6.0/Hw06_Ex41.pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Hw06_Ex41/obj/Debug/net6.0/Hw06_Ex41.csproj.AssemblyReference.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Hw06_Ex41/obj/Debug/net6.0/Hw06_Ex41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omar/GeekBrain/C# Lections/Examples/Hw06_Ex41/obj/Debug/net6.0/Hw06_Ex41.AssemblyInfoInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Hw06_Ex41/obj/Debug/net6.0/Hw06_Ex41.AssemblyInfo.cs
+/Users/omar/GeekBrain/C# Lections/Examples/Hw06_Ex41/obj/Debug/net6.0/Hw06_Ex41.csproj.CoreCompileInputs.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Hw06_Ex41/obj/Debug/net6.0/Hw06_Ex41.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Hw06_Ex41/obj/Debug/net6.0/refint/Hw06_Ex41.dll
+/Users/omar/GeekBrain/C# Lections/Examples/Hw06_Ex41/obj/Debug/net6.0/Hw06_Ex41.pdb
+/Users/omar/GeekBrain/C# Lections/Examples/Hw06_Ex41/obj/Debug/net6.0/Hw06_Ex41.genruntimeconfig.cache
+/Users/omar/GeekBrain/C# Lections/Examples/Hw06_Ex41/obj/Debug/net6.0/ref/Hw06_Ex41.dll

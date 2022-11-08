@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Hw005_Ex34{
+namespace Hw005_Ex36{
 
 internal class Program {
 
